@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\gt-atl-data-pt-06-2021-u-c\\11-Web\\01-Activities"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "01-Activities"
+    }
+}
